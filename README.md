@@ -23,6 +23,8 @@ There are four categories of landfill data in New York State.  Three are derived
 ### Satellite Images
 For the project I will be using data from the **Landsat 8** satellite which collects data in the thermal infrared spectrum.  The data can be found on [Glovis](http://glovis.usgs.gov) (does not work on Chrome).  New York City is located in Path/Row ```13/32``` and ```14/32```. 
 
+---
+
 ### Workflow
 ```landsat-util``` is a great tool for getting and performing basic manipulations on Landsat 8 data.  Install:
 
