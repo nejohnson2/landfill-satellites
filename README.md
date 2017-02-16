@@ -20,3 +20,6 @@ Then you can search for scense by lat/lon or path/row and download scenes. Durin
 landsat search -p 013,032
 ```
 
+## Resources
+- [Putting Landsat 8's bands to work](https://www.mapbox.com/blog/putting-landsat-8-bands-to-work/)
+
