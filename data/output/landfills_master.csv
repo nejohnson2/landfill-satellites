@@ -1,0 +1,196 @@
+desc,lat,lng,name,waste_type
+NY msw,42.7067400787,-73.8497395203,Albany Rapp Road,"Asbestos (Friable), Non-petroleum Contaminated Soil, Ash (WWTP Sludge), Construction & Demolition Debris, MSW (Residential/Institutional & Commercial)"
+NY msw,42.8099064867,-73.7305602984,Colonie Sanitary Landfill,"Yard Waste, Construction & Demolition Debris, Petroleum Contaminated Soil, Industrial, Animal Carcasses, MSW (Residential/Institutional & Commercial)"
+NY msw,42.1602386788,-75.0539647226,Delaware County SWMF,"MSW (Residential/Institutional & Commercial), Construction & Demolition Debris, Asbestos (Friable), Sewage Treatment Plant Sludge, Brush, Branches, Trees, & Stumps, Petroleum Contaminated Soil, Commingled Paper & Containers"
+NY msw,44.6920328482,-73.5965803951,Clinton County Landfill,"Construction & Demolition Debris, MSW (Residential/Institutional & Commercial)"
+NY msw,44.9717076843,-74.3389815649,Franklin County Regional Landfill,"MSW (Residential/Institutional & Commercial), Construction & Demolition Debris, Sewage Treatment Plant Sludge"
+NY msw,43.0082288991,-74.4697509731,Fulton County Landfill,"MSW (Residential/Institutional & Commercial), Commingled Paper & Containers, Asbestos (Friable), Waste Tires, Construction & Demolition Debris, Industrial, Sewage Treatment Plant Sludge, Yard Waste, Sludge"
+NY msw,43.8180369995,-75.9186399778,Development Authority of the North Country Landfill,"Construction & Demolition Debris, Asbestos (Non-Friable), Non-petroleum Contaminated Soil, Sludge (Paper mill), Sludge (Industrial), Asbestos (Friable), Biosolids, MSW (Residential/Institutional & Commercial)"
+NY msw,43.4528989798,-75.4147839303,Ava Landfill,"Construction & Demolition Debris, MSW (Residential/Institutional & Commercial), Industrial, Sewage Treatment Plant Sludge"
+NY msw,42.2399658764,-75.9738791612,Broome County Landfill,"MSW (Residential/Institutional & Commercial), Construction & Demolition Debris, Asbestos (Friable), Petroleum Contaminated Soil"
+NY msw,42.9528966185,-76.5955110165,Auburn Landfill No. 2,"MSW (Residential/Institutional & Commercial), Ash (WWTP Sludge), Asbestos (Non-Friable), Petroleum Contaminated Soil, Construction & Demolition Debris"
+NY msw,42.5695824677,-75.6761731343,Chenango County Landfill,"Treated RMW, MSW (Residential/Institutional & Commercial), Construction & Demolition Debris, Asbestos (Friable), Industrial, Sewage Treatment Plant Sludge"
+NY msw,42.6342052866,-76.0670126557,Cortland County Landfill Westside Extension,"MSW (Residential/Institutional & Commercial), Construction & Demolition Debris, Sewage Treatment Plant Sludge"
+NY msw,43.0362292404,-75.7047947881,Madison County West Side Extension LF,"Treated RMW, MSW (Residential/Institutional & Commercial), Construction & Demolition Debris, Foundry Sand, Petroleum Contaminated Soil, Sewage Treatment Plant Sludge"
+NY msw,43.3473741167,-76.3399200311,Bristol Hill SLF,"Ash MSW Energy Recovery Combined, MSW (Residential/Institutional & Commercial)"
+NY msw,42.0323543062,-76.6813626512,Chemung County Sanitary Landfill,"Non-Radioactive, Construction & Demolition Debris, Petroleum Contaminated Soil, Industrial, MSW (Residential/Institutional & Commercial)"
+NY msw,43.0857259253,-77.3843884327,High Acres Western Expansion Landfill,"Treated RMW, MSW (Residential/Institutional & Commercial), Construction & Demolition Debris, Asbestos (Friable), Industrial, Ash MSW Energy Recovery Fly, Sewage Treatment Plant Sludge, Petroleum Contaminated Soil"
+NY msw,43.0549089051,-77.9371962263,Mill Seat SLF,"Asbestos (Friable), MSW (Residential/Institutional & Commercial)"
+NY msw,42.8559935533,-77.0796007732,Ontario County Sanitary Landfill,"MSW (Residential/Institutional & Commercial), Construction & Demolition Debris, Asbestos (Friable), Industrial, Ash MSW Energy Recovery Fly, Sewage Treatment Plant Sludge, Petroleum Contaminated Soil, Waste Tires, Glass"
+NY msw,42.9254244375,-76.8463039922,Seneca Meadows LF,"Ash MSW Energy Recovery Fly, Construction & Demolition Debris, Non-petroleum Contaminated Soil, Sewage Treatment Plant Sludge, Industrial, MSW (Residential/Institutional & Commercial), Waste Tires, Treated RMW, Grit"
+NY msw,42.3170650206,-77.3792135888,Bath Sanitary Landfill,"Asbestos (Friable), Construction & Demolition Debris, Non-Radioactive, Commingled Paper & Containers, Industrial, Petroleum Contaminated Soil, MSW (Residential/Institutional & Commercial)"
+NY msw,42.2610930935,-78.0330272039,Allegany County Landfill,"Biosolids, Sewage Treatment Plant Sludge, MSW (Residential/Institutional & Commercial)"
+NY msw,42.2868958831,-78.0103620207,Hyland Landfill,"Asbestos (Friable), Construction & Demolition Debris, Non-petroleum Contaminated Soil, Sludge (Industrial), Biosolids, MSW (Residential/Institutional & Commercial)"
+NY msw,42.207146845,-79.3203422692,Chautauqua Landfill,"Ash (Coal-Bottom), Ash (Coal-Fly), Asbestos (Non-Friable), Construction & Demolition Debris, Sludge (Industrial), Waste Tires, Asbestos (Friable), Biosolids, MSW (Residential/Institutional & Commercial)"
+NY msw,42.58016903,-78.4956364473,Chaffee Landfill,"Ash (Coal-Bottom), Ash (Coal-Fly), Asbestos (Non-Friable), Construction & Demolition Debris, Sludge (Industrial), Asbestos (Friable), Biosolids, MSW (Residential/Institutional & Commercial)"
+NY msw,43.1027008175,-78.9909358876,Allied Waste Niagara Falls Landfill,"Ash (Coal-Bottom), Ash (Coal-Fly), Ash MSW Energy Recovery Combined, Ash (WWTP Sludge), Asbestos (Non-Friable), Construction & Demolition Debris, Sludge (Industrial), Asbestos (Friable), Waste Tires, MSW (Residential/Institutional & Commercial)"
+NY msw,43.2134012519,-78.9763831904,Modern Landfill,"Construction & Demolition Debris, Asbestos (Non-Friable), Non-petroleum Contaminated Soil, Sludge (Industrial), Asbestos (Friable), MSW (Residential/Institutional & Commercial)"
+CT,41.789186,-72.911308,M,BW
+CT,41.6499287,-72.7568019,Mattabassett District,SPC/Sludge Ash
+CT,41.2954044,-72.5506796,M,BW
+CT,41.6696684,-72.603524,M,BW
+CT,41.4171932,-72.3837421,M,BW
+CT,41.7735623,-72.5544652,M,BW/SPC
+CT,41.332246,-73.2074604,M,BW
+CT,41.6787206,-73.2513012,M,BW
+CT,41.5885739,-73.4410196,New Milford Connecticut Farms LLC,SPC
+CT,41.4761461,-73.4089594,Kimberly-Clark Co.,SPC/Paper Sludge
+CT,41.4569335,-71.9313384,M,BW
+CT,41.6820148,-72.8745576,M,BW
+CT,41.8896399,-71.9141877,Wheelabrator,ASH
+CT,41.5061822,-72.2657835,M,BW
+CT,41.403503,-71.8467597,Conn. American Water Co.,SPC/Alum Residuals
+CT,41.2948206,-73.2380499,M,BW
+NY construction,42.2574,-74.95874,Burton Clark C & D,Construction & Demolition Debris
+NY construction,42.78491,-74.03308,Santoro C & D Landfill,Construction & Demolition Debris
+NY construction,44.26967,-73.96493,North Elba C&D Landfill,Construction & Demolition Debris
+NY construction,43.40007,-73.72558,Lake George C&D Debris Landfill,Construction & Demolition Debris
+NY construction,43.51174,-73.90841,Thurman C&D Debris Landfill,Construction & Demolition Debris
+NY construction,43.06203,-76.24801,Honeywell/Camillus Bed #15 C&D,Construction & Demolition Debris
+NY construction,42.13077,-77.97515,L.C. Whitford Co. C&D Landfill,Construction & Demolition Debris
+NY construction,42.11332,-77.87815,Southern Tier Kleen Fill,Construction & Demolition Debris
+NY construction,43.15789,-78.72394,Niagara Co. Refuse Disposal District C&D Landfill,Construction & Demolition Debris
+NY industrial/commercial,41.57876,-73.96892,Dynegy(Central Hudson Gas & Elec),"Ash (Coal-Fly), Ash (Coal-Bottom)"
+NY industrial/commercial,42.50585,-73.81363,Lafarge Building Materials,"Dust (Cement Kiln), Cement Contaminated with Coal"
+NY industrial/commercial,42.17825,-73.90959,St. Lawrence Cement,Dust (Cement Kiln)
+NY industrial/commercial,42.67931,-73.71844,Rensselaer County Sewer District 1,Sewage Treatment Plant Sludge
+NY industrial/commercial,43.88347,-73.40764,International Paper Ticonderoga Mill Landfill,Sludge (Paper mill)
+NY industrial/commercial,43.2456,-73.80255,International Paper Corinth Mill Landfill,Industrial
+NY industrial/commercial,43.19873,-73.60124,Scott/Finch Pruyn Landfill,Sludge (Paper mill)
+NY industrial/commercial,43.10857,-73.5709,Hollingsworth & Vose Easton Landfill (Sludge),"Sludge (Paper mill), Industrial"
+NY industrial/commercial,42.6094,-76.62151,AES Cayuga Ash Disposal Facility,"Ash (Coal-Bottom), Ash (Coal-Fly), Dust (Baghouse), Industrial, Sewage Treatment Plant Sludge"
+NY industrial/commercial,43.06906,-78.28925,US Gypsum,
+NY industrial/commercial,42.97526,-77.41591,"Victor Insulators, Inc",
+NY industrial/commercial,42.6759,-76.95853,Lockwood Ash Disp Site,
+NY industrial/commercial,42.44505,-79.39264,NRG Dunkirk Ash LF,"Ash (Coal-Bottom), Ash (Coal-Fly)"
+NY industrial/commercial,42.98849,-78.9303,NRG Huntley,"Ash (Coal-Fly), Ash (Coal-Bottom)"
+NY industrial/commercial,43.35299,-78.59629,AES Somerset Landfill,
+NJ,39.7203920306,-75.141566102,LIPARI LANDFILL,unknown
+NJ,40.0711804202,-74.843773844,BURLINGTON CITY SANITARY LANDFILL,unknown
+NJ,39.5702747595,-75.4822666713,SALEM CITY SANITARY LANDFILL,unknown
+NJ,39.7030708561,-75.4868046422,EI DUPONT LANDFILL C,unknown
+NJ,39.9592206173,-74.4043042545,MANCHESTER TOWNSHIP LANDFILL,unknown
+NJ,39.9659296683,-75.0779968044,VINELAND CONSTRUCTION COMPANY LANDFILL,unknown
+NJ,40.7523234399,-74.1245875656,15E SANITARY LANDFILL,unknown
+NJ,41.1016120918,-74.670676169,HAMM'S SANITARY LANDFILL,unknown
+NJ,40.0373780729,-74.331893627,NAVAL AIR WARFARE CENTER LANDFILL,unknown
+NJ,39.8818494998,-74.5842714369,NEW LISBON STATE SCHOOL LANDFILL,unknown
+NJ,40.7900086434,-74.1159135537,ERIE LANDFILL,unknown
+NJ,40.4835889486,-74.3780306729,EDISON TOWNSHIP MUNICIPAL LANDFILL,unknown
+NJ,40.4904574915,-74.3791709891,KIN BUC LANDFILL # 2,unknown
+NJ,39.8298620103,-74.4917158048,WOODLAND TOWNSHIP ROUTE 532 LF/DUMP,unknown
+NJ,40.7509037857,-74.1096070711,HMDC SANITARY LANDFILL 1 A,unknown
+NJ,39.0620233015,-74.8651414279,MAR TEE LANDFILL MIDDLE TOWNSHIP,unknown
+NJ,40.121025587,-74.1662758428,WASTE DISPOSAL INC LANDFILL -HOWELL,unknown
+NJ,40.061055104,-74.25293312,LAKEHURST SANITARY LANDFILL,unknown
+NJ,40.0238543714,-74.254100143,OCEAN COUNTY LANDFILL,unknown
+NJ,40.5658059558,-74.6207123659,SOMERVILLE SANITARY LANDFILL,unknown
+NJ,40.1277321874,-74.7118681014,PARKLANDS RECLAMATION SANITARY LANDFILL,unknown
+NJ,39.8499673411,-74.9534997913,BUZBY SANITARY LANDFILL,unknown
+NJ,39.385092957,-75.0570175483,MILLVILLE CITY SWDA,unknown
+NJ,40.7524350345,-74.0737716444,GATES CONSTRUCTION LANDFILL,unknown
+NJ,39.4162989733,-74.544977766,PRICES LANDFILL #3,unknown
+NJ,39.4759031652,-74.4710177169,GALLOWAY TOWNSHIP LANDFILL,unknown
+NJ,39.6184637087,-74.8868299632,WINSLOW TOWNSHIP SANITARY LANDFILL,unknown
+NJ,39.0199855539,-74.906424516,LOWER TOWNSHIP SANITARY LANDFILL,unknown
+NJ,39.5885737431,-74.7984400226,HAMMONTON SANITARY LANDFILL,unknown
+NJ,40.7918158668,-74.1039065636,AVON SANITARY LANDFILL,unknown
+NJ,39.9813498685,-74.7660574788,LANDFILL & DEVELOPMENT LANDFILL,unknown
+NJ,39.9064517739,-74.2271762036,BERKELEY TOWNSHIP LANDFILL,unknown
+NJ,40.0635745207,-74.3473320788,JACKSON TOWNSHIP LANDFILL,unknown
+NJ,40.760222202,-74.0845574193,1947 CORPS SANITARY LANDFILL,unknown
+NJ,39.9909681821,-75.0375891058,PENNSAUKEN SANITARY LANDFILL,unknown
+NJ,40.2446477301,-74.1140585173,MONMOUTH COUNTY RECLAMATION CENTER,unknown
+NJ,40.5553127614,-74.6020034188,JOHNS MANVILLE LANDFILL,unknown
+NJ,39.4259501786,-74.5382094842,ATLANTIC COUNTY UTILITIES AUTHORITY LF,unknown
+NJ,39.4695166424,-75.060126602,VINELAND CITY LANDFILL 1,unknown
+NJ,39.7151364881,-74.2991725243,STAFFORD TOWNSHIP LANDFILL,unknown
+NJ,40.6020489461,-74.2449131189,LINDEN LANDFILL 1,unknown
+NJ,40.8277389842,-75.0204881936,WARREN COUNTY DISTRICT LANDFILL,unknown
+NJ,40.7339428026,-74.0856019129,PJP LANDFILL,unknown
+NJ,39.7800083432,-75.1987990551,HELEN KRAMER LANDFILL,unknown
+NJ,39.3819042543,-74.4333445301,ATLANTIC CITY SANITARY LANDFILL,unknown
+NJ,40.7894344956,-74.1063041879,KINGSLAND PARK SANITARY LANDFILL,unknown
+NJ,39.7936840671,-75.1084696686,KINSLEYS LANDFILL INCORPORATED,unknown
+NJ,39.7146819288,-75.287146472,GLOUCESTER COUNTY LANDFILL,unknown
+NJ,40.7558321992,-74.1355857006,KEEGAN LANDFILL,unknown
+NJ,40.8779229021,-74.6697355811,FENIMORE SANITARY LANDFILL,unknown
+NJ,40.4901776187,-74.3610380925,ILR SANITARY LANDFILL,unknown
+NJ,40.4035040028,-74.568147233,BFI SOUTH BRUNSWICK LANDFILL,unknown
+NJ,40.0670540511,-74.7733826273,FLORENCE LAND RECONTOURING INC LANDFILL,unknown
+NJ,40.2021581393,-74.3324579684,LONE PINE LANDFILL,unknown
+NJ,40.8522834758,-74.3419003755,ECOLOGY LAKE CLUB SANITARY LANDFILL,unknown
+NJ,39.4532050502,-75.1004552171,CUMBERLAND CTY IMP AUTH SANITARY LANDFILL,unknown
+NJ,40.7564901069,-74.0820861778,MALL LANDFILL,unknown
+NJ,40.4732523036,-74.3842662026,EDGEBORO SANITARY LANDFILL -MIDDLESEX,unknown
+NJ,40.7267676567,-74.4437643799,ROLLING KNOLLS LANDFILL,unknown
+NJ,39.3578652266,-74.6099276817,PINELANDS PARK LANDFILL,unknown
+NJ,39.9814568365,-74.6250521633,FORT DIX LANDFILL # 1,unknown
+NJ,39.954279383,-75.1057304142,HARRISON AVENUE LANDFILL,unknown
+NJ,39.2206343937,-74.8038081881,FOUNDATIONS & STRUCTURES SANITARY LANDFILL,unknown
+NJ,40.7466405134,-74.1256946913,MUNICIPAL SANITARY LANDFILL AUTHORITY 1D,unknown
+NJ,39.794367814,-74.3010936952,SOUTHERN OCEAN LANDFILL,unknown
+NJ,39.7801811286,-75.0186923324,GEMS LANDFILL,unknown
+NJ,40.8479455938,-74.3461545227,SHARKEY LANDFILL,unknown
+NJ,39.8916585835,-74.6939506893,BIG HILL SANITARY LANDFILL,unknown
+NJ,40.7709946409,-74.7393359868,COMBE FILL SOUTH LANDFILL,unknown
+NJ,40.7749944275,-74.1207495492,HMDC SANITARY LANDFILL 1 E (DEKORTE PARK),unknown
+NJ,40.0753680834,-74.7659159657,BURLINGTON COUNTY LANDFILL,unknown
+NJ,39.5876104904,-75.3707876063,SALEM COUNTY SANITARY LANDFILL,unknown
+NJ,39.9967222103,-75.041531876,PALMYRA BOROUGH SANITARY LANDFILL,unknown
+NJ,40.4271957144,-74.0759386449,MIDDLETOWN TOWNSHIP LANDFILL,unknown
+NJ,40.2567669091,-74.7086735122,AMERICAN STANDARD LANDFILL,unknown
+NJ,40.2116587332,-74.7007130247,HAMILTON TOWNSHIP SANITARY LANDFILL,unknown
+NJ,39.713821124,-75.2041355686,HENRY HARRIS LANDFILL,unknown
+NJ,39.7719187365,-75.1654134319,MANTUA TOWNSHIP SANITARY LANDFILL,unknown
+NJ,39.8552678659,-75.1747981323,MATTEO SOLID WASTE DISPOSAL AREA,unknown
+NJ,39.4044994559,-74.541070683,PRICES LANDFILL #2,unknown
+NJ,40.8824840002,-74.7130799404,COMBE FILL NORTH LANDFILL,unknown
+NJ,39.8604227713,-75.180895845,NATIONAL PARK LANDFILL,unknown
+NJ,40.1861031102,-74.7370900373,DUCK ISLAND SANITARY LANDFILL,unknown
+NJ,40.4451777185,-74.2844137554,GLOBAL LANDFILL,unknown
+NJ,39.4316031995,-74.7671669791,WEYMOUTH TOWNSHIP SANITARY LANDFILL,unknown
+NJ,40.8626936956,-74.0067599385,BERGEN COUNTY SLF-TEANECK,unknown
+NJ,39.2994679559,-75.041654047,COMMERCIAL TOWNSHIP SANITARY LANDFILL,unknown
+NJ,39.4018000235,-75.0502178926,MILLVILLE CITY SANITARY LANDFILL,unknown
+NJ,40.6657665482,-74.0999969123,BAYONNE CITY LANDFILL,unknown
+NJ,40.5947623071,-74.2276591869,CARTERET BOROUGH LANDFILL,unknown
+NJ,40.4448831895,-74.357887946,SAYERVILLE ASBESTOS,unknown
+NJ,40.444770757,-74.1872660289,WASTE DISPOSAL INC LANDFILL - KEYPORT,unknown
+NJ,40.1097458302,-74.1303107457,BRICK TOWNSHIP LANDFILL,unknown
+NJ,39.8659205504,-74.2043880826,LACEY TOWNSHIP SANITARY LANDFILL #1,unknown
+NJ,40.6613764202,-74.171788246,ELIZABETH LANDFILL- OLD SITE,unknown
+NJ,40.7310429357,-74.0915977379,LINCOLN PARK WEST LANDFILL,unknown
+NJ,40.8603700886,-74.0010392336,OVERPECK PARK LF,unknown
+NJ,40.6737743713,-74.1704716435,KAPKOWSKI ROAD LF E-W,unknown
+NJ,39.8615877136,-75.1015708959,FAZZIO SANITARY LANDFILL,unknown
+NJ,39.839731019,-74.91145094,EVESHAM TOWNSHIP SANITARY LANDFILL,unknown
+NJ,40.0154697582,-74.9838854069,SANITARY LANDFILL INCORPORATED,unknown
+NJ,39.8423424803,-75.0860700944,MAC SANITARY LANDFILL,unknown
+NJ,39.2377105114,-74.7858677502,CAPE MAY COUNTY MUA SECURE SANITARY LANDFILL,unknown
+NJ,41.0959944719,-74.6750920327,SUSSEX COUNTY 1E LANDFILL,unknown
+NJ,39.97233531,-74.7037704362,NOR-CROSS SAND AND GRAVEL,unknown
+NJ,39.6911118562,-75.4896115091,EI DUPONT LANDFILL A & B,unknown
+NJ,40.7925230299,-74.0880514127,RUTHERFORD LF,unknown
+NJ,40.2491046444,-74.1198509708,SHREWSBURY SANITARY LANDFILL,unknown
+NY private,41.40836,-74.376514,Al Turi Landfill Treatment,unknown
+NY private,43.160991,-77.532337,Brighton Landfill,unknown
+NY private,40.803415,-72.923401,Brookhaven Landfill,unknown
+NY private,43.661408,-73.803367,Chestertown Landfill,unknown
+NY private,43.843353,-75.931372,Development Authority,unknown
+NY private,41.774896,-74.908875,F & D Landfill Inc,unknown
+NY private,44.379438,-74.226085,Franklin County Solid Waste,unknown
+NY private,40.577814,-74.186116,Fresh Kills Landfill,unknown
+NY private,42.706703,-73.961954,Guilderland Town Landfill,unknown
+NY private,41.641666,-74.652971,Sullivan County Landfill,unknown
+NY private,42.364811,-76.904472,Joint Sanitary Landfill,unknown
+NY private,43.14765,-75.320643,Landfill Pumping Station,unknown
+NY private,43.181044,-78.980948,Modern Disposal Services,unknown
+NY private,42.812211,-73.859795,Niskayuna Transfer Station,unknown
+NY private,43.959283,-73.72071,North Hudson Town Landfill,unknown
+NY private,42.996369,-78.095387,Sanders Road Recycling Trsnfr,unknown
+NY private,44.252146,-73.5761,Serkil LLC (Essex County Landfill),unknown
+NY private,41.068436,-72.348402,Shelter Island Landfill,unknown
+NY private,41.875155,-73.677821,Stanford Landfill,unknown
+NY private,43.677838,-73.749719,Town of Horicon Landfill,unknown
+NY private,42.211625,-77.113745,Hakes C&D Landfill,unknown
