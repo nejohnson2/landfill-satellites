@@ -1,0 +1,27 @@
+Town,Facility Address,Owner,Waste Type,Permit No.,Permit Issue Date,Comments,State,lat,lng
+Avon,281 Huckleberry Hill Road,M,BW,004-2-9,10-19-72,,CT,41.789186,-72.911308
+Berlin,Edgewood Avenue,Mattabassett District,SPC/Sludge Ash,007-1L,3-19-84,,CT,41.6499287,-72.7568019
+Canaan,Route 63,M,BW,021-11,4-30-74,,CT,,
+Clinton,Old Nod Road,M,BW,027-1B,9-6-76,Limited Capacity,CT,41.2954044,-72.5506796
+Deep River,Route 80,M,BW,036-BM,2-22-79,No Longer Accepting Waste,CT,,
+Essex,Route 9A,M,BW,050-2L,3-15-85,,CT,,
+Glastonbury,Tryon Road,M,BW,057-1B,6-23-77,,CT,41.6696684,-72.603524
+Hartland,Grandville Road,M,BW,065-1B,9-7-79,,CT,,
+Lyme,Brush Hill Road,M,BW,075-1-L,11-29-79,,CT,41.4171932,-72.3837421
+Manchester,Olcott Road,M,BW/SPC,077-2E,9-23-80,,CT,41.7735623,-72.5544652
+Monroe,Gardner Road,M,BW,085-13,3-5-82,,CT,41.332246,-73.2074604
+Morris,254 Lakeside Road Route 109,M,BW,087-2L,4-13-81,No Longer Accepting Waste,CT,41.6787206,-73.2513012
+New  Milford,Boardman Road,New Milford Connecticut Farms LLC,SPC,096-1LO,5-11-83,Landfill Mining Operation;  On-going.,CT,41.5885739,-73.4410196
+New Milford,Route 7,Kimberly-Clark Co.,SPC/Paper Sludge,096-1L,11-14-83, Inactive,CT,41.4761461,-73.4089594
+Newington,Off Main St. adjacent to Church Hill Park,M,BW,094-2B,3-29-83,No Longer Accepting Waste,CT,,
+North Stonington,Wintechog Hill Road,M,BW,158-1L,11-28-84,,CT,41.4569335,-71.9313384
+Old Lyme,Boston Post Road,M,BW,105-2-L,11-14-86,,CT,,
+Plainville,Granger Lane,M,BW,SW-110-2-L-O,11-14-86,Limited Capacity,CT,41.6820148,-72.8745576
+Putnam,River Road,Wheelabrator,ASH,1160391,3-19-98,Lined - 10 Million CY,CT,41.8896399,-71.9141877
+Salem,Rattlesnake Ledge Road,M,BW,121-2L,11-14-86,Limited Capacity,CT,41.5061822,-72.2657835
+Stonington,Voluntown Road Route 49,Conn. American Water Co.,SPC/Alum Residuals,137-1-L,4-23-87,,CT,41.403503,-71.8467597
+Suffield,Mountain Road,M,BW,139-2E,11-14-86,,CT,,
+Thomaston,Waterbury Road,Patterson Brothers Inc.,BW,140-2B,10-16-86,,CT,,
+Trumbull,Spring Hill,M,BW,144-4L,1-25-88,Limited Capacity,CT,41.2948206,-73.2380499
+Waterbury,Municipal Road,M,SPC/Sludge Ash,151-5L,11-14-86,South End Disposal Area (SEDA),CT,,
+Windsor,Huckleberry Road,M,MSW/BW,164-1,2-5-73,Limited Capacity,CT,,
